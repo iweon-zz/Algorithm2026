@@ -4,7 +4,7 @@
 
 ### SelectionSorting
 
-[SelectionSorting](SelectionSorting.pde)
+[SelectionSorting](./homework/SelectionSorting.pde)
 
 ![SelectionSorting](SelectionSorting.png)
 
