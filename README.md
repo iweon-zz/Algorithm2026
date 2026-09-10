@@ -2,6 +2,16 @@
 
 ## Homework1
 
-[SelectionSorting](sketch_260910b.pde)
+### SelectionSorting
+
+[SelectionSorting](SelectionSorting.pde)
 
 ![SelectionSorting](SelectionSorting.png)
+
+---
+
+### BubbleSorting
+
+[BubbleSorting](BubbleSorting.pde)
+
+![BubbleSorting](BubbleSorting.png)
