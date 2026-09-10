@@ -2,7 +2,7 @@ Algorithm2026
 
 Homework1
 
-### SelectionSorting
+SelectionSorting
 
 [SelectionSorting](SelectionSorting.pde)
 
@@ -28,7 +28,7 @@ InsertionSorting
 
 MergeSorting
 
-[MergeSorting](MergeSprting.pde)
+[MergeSorting](MergeSorting.pde)
 
 ![MergeSorting](MergeSorting.png)
 
