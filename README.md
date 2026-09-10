@@ -4,14 +4,14 @@
 
 ### SelectionSorting
 
-[SelectionSorting](SelectionSorting.pde)
+[SelectionSorting](homework/SelectionSorting.pde)
 
-![SelectionSorting](SelectionSorting.png)
+![SelectionSorting](homework/SelectionSorting.png)
 
 ---
 
 ### BubbleSorting
 
-[BubbleSorting](BubbleSorting.pde)
+[BubbleSorting](homework/BubbleSorting.pde)
 
-![BubbleSorting](BubbleSorting.png)
+![BubbleSorting](homework/BubbleSorting.png)
