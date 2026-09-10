@@ -1,11 +1,19 @@
-# Algorithm2026
+### InsertionSorting
+[InsertionSorting](homework/InsertionSorting.pde)
 
-## Homework1
+![InsertionSorting](homework/InsertionSorting.png)
 
-[SelectionSorting](homework/SelectionSorting.pde)
+### MergeSorting
+[MergeSorting](homework/MergeSorting.pde)
 
-![SelectionSorting](homework/SelectionSorting.png)
+![MergeSorting](homework/MergeSorting.png)
 
-[BubbleSorting](homework/BubbleSorting.pde)
+### QuickSorting
+[QuickSorting](homework/QuickSorting.pde)
 
-![BubbleSorting](homework/BubbleSorting.png)
+![QuickSorting](homework/QuickSorting.png)
+
+### HeapSorting
+[HeapSorting](homework/HeapSorting.pde)
+
+![HeapSorting](homework/HeapSorting.png)
