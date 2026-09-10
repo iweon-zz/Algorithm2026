@@ -4,46 +4,46 @@
 
 ### SelectionSorting
 
-[SelectionSorting](homework/SelectionSorting.pde)
+[SelectionSorting](SelectionSorting.pde)
 
-![SelectionSorting](homework/SelectionSorting.png)
+![SelectionSorting](SelectionSorting.png)
 
 ---
 
 ### BubbleSorting
 
-[BubbleSorting](homework/BubbleSorting.pde)
+[BubbleSorting](BubbleSorting.pde)
 
-![BubbleSorting](homework/BubbleSorting.png)
+![BubbleSorting](BubbleSorting.png)
 
 ---
 
 ### InsertionSorting
 
-[InsertionSorting](homework/InsertionSorting.pde)
+[InsertionSorting](InsertionSorting.pde)
 
-![InsertionSorting](homework/InsertionSorting.png)
+![InsertionSorting](InsertionSorting.png)
 
 ---
 
 ### MergeSorting
 
-[MergeSorting](homework/MergeSorting.pde)
+[MergeSorting](MergeSprting.pde)
 
-![MergeSorting](homework/MergeSorting.png)
+![MergeSorting](MergeSprting.png)
 
 ---
 
 ### QuickSorting
 
-[QuickSorting](homework/QuickSorting.pde)
+[QuickSorting](QuickSorting.pde)
 
-![QuickSorting](homework/QuickSorting.png)
+![QuickSorting](QuickSorting.png)
 
 ---
 
 ### HeapSorting
 
-[HeapSorting](homework/HeapSorting.pde)
+[HeapSorting](HeapSorting.pde)
 
-![HeapSorting](homework/HeapSorting.png)
+![HeapSorting](HeapSorting.png)
