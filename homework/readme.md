@@ -1,6 +1,6 @@
-# Algorithm2026
+Algorithm2026
 
-## Homework1
+Homework1
 
 ### SelectionSorting
 
@@ -10,7 +10,7 @@
 
 ---
 
-### BubbleSorting
+BubbleSorting
 
 [BubbleSorting](BubbleSorting.pde)
 
@@ -18,7 +18,7 @@
 
 ---
 
-### InsertionSorting
+InsertionSorting
 
 [InsertionSorting](InsertionSorting.pde)
 
@@ -26,15 +26,15 @@
 
 ---
 
-### MergeSorting
+MergeSorting
 
 [MergeSorting](MergeSprting.pde)
 
-![MergeSorting](MergeSprting.png)
+![MergeSorting](MergeSorting.png)
 
 ---
 
-### QuickSorting
+QuickSorting
 
 [QuickSorting](QuickSorting.pde)
 
@@ -42,7 +42,7 @@
 
 ---
 
-### HeapSorting
+HeapSorting
 
 [HeapSorting](HeapSorting.pde)
 
