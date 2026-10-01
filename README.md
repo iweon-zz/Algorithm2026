@@ -42,6 +42,6 @@ HeapSorting
 
 ![HeapSorting](homework/01.jpg)
 
-[Sorting](homework/SortAnimation (2).pde)
+[Sorting](homework/sketch_02.pde)
 
 ![Sorting](homework/02.jpg)
