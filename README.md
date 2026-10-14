@@ -47,7 +47,7 @@ HeapSorting
 ![Sorting](homework/02.jpg)
 
 
-[BubbleSorting](homework/BubbleSorting.pde)
+[BubbleSorting](homework/BinarySearchTree.pde)
 
-![BubbleSorting](homework/BubbleSorting.png)
+![BubbleSorting](homework/스크린샷 2026-10-14 오후 5.43.29.png)
 
