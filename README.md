@@ -49,5 +49,5 @@ HeapSorting
 
 [BubbleSorting](homework/BubbleSorting.pde)
 
-![BubbleSorting](homework/BubbleSorting.jpg)
+![BubbleSorting](homework/BubbleSorting.png)
 
